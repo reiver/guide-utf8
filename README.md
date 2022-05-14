@@ -119,16 +119,28 @@ A guide on the **UTF-8** text character encoding for the **Unicode** text charac
 
 ### Project
 
-39. Trim Left
-40. Trim Right
-41. Trim
+39. Is White Space
 
 ### Project
 
-42. Index
-43. Contains
+40. Trim Left
+41. Trim Right
+42. Trim
 
 ### Project
 
-44. Replace
-45. Replace All
+43. Index
+44. Contains
+
+### Project
+
+45. String Search Program
+
+### Project
+
+46. Replace
+47. Replace All
+
+### Project
+
+48. String Search Replace Program
