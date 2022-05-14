@@ -123,12 +123,12 @@ A guide on the **UTF-8** text character encoding for the **Unicode** text charac
 40. Trim Right
 41. Trim
 
-## Projet
+### Project
 
 42. Index
 43. Contains
 
-## Project
+### Project
 
 44. Replace
 45. Replace All
